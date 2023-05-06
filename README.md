@@ -1,7 +1,7 @@
 
 # Eigenvalue finder
 
-C program which calculates eigenvalues of square matrix via QR decomposition with Gram-Schmidt orthogonalization.
+C program that calculates eigenvalues of square matrix via QR decomposition with Gram-Schmidt orthogonalization.
 
 
 ## Run Locally
